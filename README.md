@@ -64,4 +64,4 @@ Processed results and generated visualisations are available in the `outputs/` d
 
 ## 👥 Team
 
-University group project — Universidade do Minho, 2024
+University group project — Universidade do Minho, 2025
